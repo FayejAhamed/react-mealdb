@@ -1,0 +1,14 @@
+.meals-parent{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.meals{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.cart-container{
+    position:sticky;
+    top: 0;
+    background-color: aqua;
+}

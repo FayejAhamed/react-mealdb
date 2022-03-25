@@ -1,0 +1,14 @@
+.header{
+background-color: rgb(12, 10, 10);
+padding: 30px;
+}
+.header a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 20px;
+    color: rgb(253, 253, 253);
+    padding: 10px;
+}
+.header a:hover{
+    color: orange;
+}
